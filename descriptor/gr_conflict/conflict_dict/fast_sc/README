@@ -1,0 +1,11 @@
+A short instruction to run the code
+1. download IMAGES.mat from http://redwood.berkeley.edu/bruno/sparsenet/
+2. copy IMAGES.mat to ./data directory
+3. move to ./code 
+4. run matlab and execute:
+        "demo_fast_sc(1)": epsilon-L1 sparsity penalty
+        "demo_fast_sc(2)": L1 sparsity penalty
+
+Note: You can apply sparse coding to any type of general data. See sparse_coding.m for details.
+
+
