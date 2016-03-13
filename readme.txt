@@ -48,6 +48,7 @@ step4: group refinement [fun_groupRef.m]
 -----------------------------------------------------------------------
 July. 3, 2014, Jing Shao
 
-If you use our code, please cite our paper:
+If you use our code, please cite our papers:
 Jing Shao, Chen Change Loy, and Xiaogang Wang. Scene-Independent Group Profiling in Crowd. CVPR, 2014.
+Jing Shao, Chen Change Loy, and Xiaogang Wang. Learning Scene-Independent Group Descriptors for Crowd Understanding. TCSVT, 2016.  
 
